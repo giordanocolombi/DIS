@@ -19,7 +19,7 @@ For announcements and class discussions you may subscribe to the fora on [Moodle
 ## Exams
 |Date |Type   |
 |:---:|:------|
-|18/03|Midterm|
-|15/04|Quiz 1 |
-|20/05|Quiz 2 |
-|29/06|Final  |
+|TBD|Midterm|
+|TBD|Quiz 1 |
+|TBD|Quiz 2 |
+|TBD|Final  |
