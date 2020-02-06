@@ -53,7 +53,7 @@
 [5l]:Exercises/05.Frequent_Itemsets
 [6l]:Exercises/06.Clustering
 [7l]:Exercises/07.Classification
-[8l]:Exercises/08.Classification_Pipeline
+[8l]:Exercises/08.Recommender_Systems
 [9l]:Exercises/09.Social_Network_Analysis
 [10l]:Exercises/10.Semantic_Web
 [11l]:Exercises/11.Entity_and_Information_Extraction
