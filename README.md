@@ -29,21 +29,21 @@
 
 \* All the lecture slides have embedded notes. All the lab exercises are accompanied by their solutions.
 
-[0]:Lectures/week%201%20-%20Course%20Information%202019.pdf
-[1]:Lectures/week%201%20-%20Overview%20DIS.pdf
-[2]:Lectures/week%202%20-%20Information%20Retrieval%20Basics.pdf
-[3]:Lectures/week%203%20-%20Information%20Retrieval%20Indexing.pdf
-[4]:Lectures/week%204%20-%20Advanced%20Retrieval%20Models.pdf
-[5]:Lectures/week%205%20-%20Relevance%20Feedback%20and%20Link%20Based%20Ranking.pdf
-[6]:Lectures/week%206%20-%20Frequent%20Itemsets.pdf
-[7]:Lectures/week%207%20-%20Clustering%20and%20Classification.pdf
-[8]:Lectures/week%208%20-%20Classification%20Methodology.pdf
-[9]:Lectures/week%209%20-%20Applied%20Classification.pdf
-[10]:Lectures/week%2010%20-%20Social%20Network%20Mining.pdf
-[11]:Lectures/week%2011%20-%20Semantic%20Web.pdf
-[12]:Lectures/week%2012%20-%20Information%20Extraction.pdf
-[13]:Lectures/week%2013%20-%20Taxonomy%20Induction.pdf
-[14]:Lectures/week%2014%20-%20Knowledge%20Inference.pdf
+[0]:Lectures/week%201%20-%20Course%20Information%202020.ppt
+[1]:Lectures/week%201%20-%20Overview%20DIS.ppt
+[2]:Lectures/week%202%20-%20Information%20Retrieval%20Basics.ppt
+[3]:Lectures/week%203%20-%20Information%20Retrieval%20Indexing.ppt
+[4]:Lectures/week%204%20-%20Advanced%20Retrieval%20Models.ppt
+[5]:Lectures/week%205%20-%20Relevance%20Feedback%20and%20Link%20Based%20Ranking.ppt
+[6]:Lectures/week%206%20-%20Frequent%20Itemsets.ppt
+[7]:Lectures/week%207%20-%20Clustering%20and%20Classification.ppt
+[8]:Lectures/week%208%20-%20Classification%20Methodology.ppt
+[9]:Lectures/week%209%20-%20Applied%20Classification.ppt
+[10]:Lectures/week%2010%20-%20Social%20Network%20Mining.ppt
+[11]:Lectures/week%2011%20-%20Semantic%20Web.ppt
+[12]:Lectures/week%2012%20-%20Information%20Extraction.ppt
+[13]:Lectures/week%2013%20-%20Taxonomy%20Induction.ppt
+[14]:Lectures/week%2014%20-%20Knowledge%20Inference.ppt
 
 [0l]:Exercises/Prerequisites.md
 [1l]:Exercises/01.Vector_Space_Retrieval
