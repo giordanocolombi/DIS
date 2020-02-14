@@ -9,7 +9,7 @@
 
 
 ## Schedule
-| Date  | Area                        | Topic                                       | Links*                                 |
+| Date  | Area                        | Topic                                       | Links*                                |
 |:------|:---------------------------:|:--------------------------------------------|:--------------------------------------|
 | 17/02 | Introduction                | Course Information - Overview               | [[slides][0], [slides][1], [lab][0l]] |
 | 24/02 | Information Retrieval       | Basic Text Retrieval Models                 | [[slides][2], [lab][1l]]              |
@@ -61,12 +61,12 @@
 [13l]:Exercises/13.Knowledge_Inference
 
 
-## Exams
+## Evaluation
 | Date  |Type     |
 |:------|:--------|
-| 18/03 | Midterm |
-| 15/04 | Quiz 1  |
-| 20/05 | Quiz 2  |
+| 16/03 | Midterm |
+| 20/04 | Quiz 1  |
+| 18/05 | Quiz 2  |
 | TBD   | Final   |
 
 
